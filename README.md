@@ -1,5 +1,5 @@
 # Wildfire
-Contains code used for the research submitted to JSHS 2022
+Contains some of the code used for research presented at the 2022 IEEE ICAPAI (International Conference on Applied Artificial Intelligence)
 
 Link to Paper (preprint): https://arxiv.org/abs/2201.09671
 
